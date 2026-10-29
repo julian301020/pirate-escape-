@@ -9,6 +9,16 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Russisches wässerchen"
     },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image4": {
+        "data": "hwQgACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////AAAAAAAAAAAAAAD/z8/M/P8AAAAAAAAAAAD/z8z/z8z///8PAAAAAAAAz8zMzM/M/Mz8////DwAAAM/MzMzPzP/szvzM/A8AAPDM7sz8z8zP7Mz87P//AADwzM78/+z8zOzM/O7P/A8A8M/+/8zu/MzszM/Oz/z/APD//v/Pzvz/7/zPzv/8/AD//O7M/87MzO/87M78/PwPz/zMzP/OzMzv/OzOzPzOD8/8zPzP7sz87/7P7sz8zv/P/P//zOzM/8zO/+zMzM/8z87//8zMzP/Mzvzs/MzP/8/Mz/z//8/8/878z8/8/w//zM/OzMz/zPzu/M/v/P4P8Mz/zszM/8z/7vzM7/z/APDM/P///8z8z87/zOz8DwDwzv/8/8zO/MzOz/z//wAA8M7PzvzszPzMzv//AAAAAPDMz8787Mz8/P8PAAAAAADwz+/M/+zM/P8AAAAAAAAAAM/P/8/szPwPAAAAAAAAAAD/z//P7Mz/AAAAAAAAAAAA8P/Mz8zODwAAAAAAAAAAAADw/////w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Tannanzapfen"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

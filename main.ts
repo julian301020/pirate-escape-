@@ -1,2 +1,1 @@
-let mySprite = sprites.create(assets.image`Stalagmitten`, SpriteKind.Player)
-controller.moveSprite(mySprite)
+let mySprite = sprites.create(assets.image`Pirat`, SpriteKind.Player)

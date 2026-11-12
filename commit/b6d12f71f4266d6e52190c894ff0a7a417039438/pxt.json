@@ -1,0 +1,24 @@
+{
+    "name": "pirate-escape--commit-b6d12f71f4266d6e52190c894ff0a7a417039438",
+    "dependencies": {
+        "device": "*",
+        "pirate-escape-": "github:julian301020/pirate-escape-"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.27",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
